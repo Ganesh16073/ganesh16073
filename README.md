@@ -19,6 +19,4 @@ Here are the top technologies I use:
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganesh16073&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh16073&layout=compact&theme=radical)
